@@ -32,7 +32,7 @@ See this post in context
 add commit 
 git push origin master //这个是本地分支与远程分支不关联的情况下
 git push //这个是本地分支与远程分支关联的情况下
-[如何关联](assets/Pasted%20image%2020230223171106.png)
+![如何关联](assets/Pasted%20image%2020230223171106.png)
 然后再用githubdesk打开
 ![](assets/Pasted%20image%2020230223120649.png)
 ```git
